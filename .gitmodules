@@ -1,0 +1,6 @@
+[submodule "mysite1"]
+	path = mysite1
+	url = https://github.com/arvindkinja/mysite1
+[submodule "mysite2"]
+	path = mysite2
+	url = https://github.com/arvindkinja/mysite2
